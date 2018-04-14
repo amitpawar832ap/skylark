@@ -11,7 +11,7 @@ class Test1{
 		}
 		
 	}
-	
+	//fgede
 	
 }
 public class FactUsingRecursion {
@@ -20,6 +20,7 @@ public class FactUsingRecursion {
 		// TODO Auto-generated method stub
 		
 		Test1.factorial(4);
+		System.out.println(Test1.fact);
 		System.out.println(Test1.fact);
 	}
 
