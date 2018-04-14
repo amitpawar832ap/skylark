@@ -12,6 +12,7 @@ public class ArmStrongNumber {
 			cube = d*d*d;
 			c += cube ;
 			num /= 10;
+			//ffdggf
 
 		}
 		if ( c == n) {
